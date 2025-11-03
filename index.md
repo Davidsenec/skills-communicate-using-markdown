@@ -1,4 +1,7 @@
 # This is my first header
+- [ ] Get a wife
+- [x] Enjoy some fun time with the homies
+
 
 ## Hello world!
 I wonder what this does 
@@ -35,5 +38,6 @@ for _ in range(2):
 
 # Trust me this draws something beautiful
 ```
+
 
 
